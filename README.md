@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm from Colombia🌎. I'm an electronic engineering with a Master degree on electrical engineering ⚡, I'm a huge fan of information technology project management, using agile and waterfall frameworks 💻. When I'm not solving impediments to my team to build dreams, I can be found read literature 💬, trying not to to mess up too much in some really simple video game 😄, and spending time with my beautiful family 👯.
+I'm from Colombia 🌎. I'm an electronic engineering with a Master degree on electrical engineering ⚡, I'm a huge fan of information technology project management, using agile and waterfall frameworks 💻. When I'm not solving impediments to my team to build dreams, I can be found read literature 💬, trying not to to mess up too much in some really simple video game 😄, and spending time with my beautiful family 👯.
 
  🌱 I’m currently learning Python programming lenguage, French and Italian.
 
